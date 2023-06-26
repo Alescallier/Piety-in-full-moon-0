@@ -1,0 +1,271 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.21f1 (1b156197d683) revision 1774945'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Professional' Language: 'es' Physical Memory: 8040 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/Alumno/Desktop/BackUp, Test/Piety-in-full-moon/Practica
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+56953
+Successfully changed project path to: C:/Users/Alumno/Desktop/BackUp, Test/Piety-in-full-moon/Practica
+C:/Users/Alumno/Desktop/BackUp, Test/Piety-in-full-moon/Practica
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17464] Host "[IP] 192.168.4.229 [Port] 0 [Flags] 2 [Guid] 3843356323 [EditorId] 3843356323 [Version] 1048832 [Id] WindowsEditor(7,equipo_11) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [17464] Host "[IP] 192.168.4.229 [Port] 0 [Flags] 2 [Guid] 3843356323 [EditorId] 3843356323 [Version] 1048832 [Id] WindowsEditor(7,equipo_11) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 89.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.21f1 (1b156197d683)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Alumno/Desktop/BackUp, Test/Piety-in-full-moon/Practica/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GT 1030 (ID=0x1d01)
+    Vendor:   NVIDIA
+    VRAM:     4025 MB
+    Driver:   30.0.15.1259
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56492
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003581 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 87.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.630 seconds
+Domain Reload Profiling:
+	ReloadAssembly (630ms)
+		BeginReloadAssembly (78ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (440ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (98ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (267ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (87ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (118ms)
+				ProcessInitializeOnLoadMethodAttributes (54ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004017 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Alumno\Desktop\BackUp, Test\Piety-in-full-moon\Practica\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Alumno\Desktop\BackUp, Test\Piety-in-full-moon\Practica\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 91.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1230ms)
+		BeginReloadAssembly (125ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (982ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (312ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (497ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (92ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (285ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3614 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 47 unused Assets / (1.6 MB). Loaded Objects now: 4096.
+Memory consumption went from 150.1 MB to 148.5 MB.
+Total: 6.002500 ms (FindLiveObjects: 1.064000 ms CreateObjectMapping: 0.456200 ms MarkObjects: 3.796500 ms  DeleteObjects: 0.684000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 567.831909 seconds.
+  path: Assets/Tree.prefab
+  artifactKey: Guid(2ae0bc7372712a64f9073d76accd2486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tree.prefab using Guid(2ae0bc7372712a64f9073d76accd2486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f3a700b48f16841afb001db94c595a') in 0.297910 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 972.272211 seconds.
+  path: Assets/Texturas/1000_F_534147517_6nY3LRJZhP5mtEitSUbZ0hkTOhEHuoub.jpg
+  artifactKey: Guid(042a78b61695bb444b15440030ce4389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/1000_F_534147517_6nY3LRJZhP5mtEitSUbZ0hkTOhEHuoub.jpg using Guid(042a78b61695bb444b15440030ce4389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a58be9aae89d135f92c41d0dff5b21b') in 0.049985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Texturas/parasiteZombie_body_diffuse.png
+  artifactKey: Guid(93dfd59cd7aaa654b8889b4aee67ea42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/parasiteZombie_body_diffuse.png using Guid(93dfd59cd7aaa654b8889b4aee67ea42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e0c1992158355d1b64b38c0a579d96') in 0.016046 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Texturas/Remy_Shoes_Diffuse.png
+  artifactKey: Guid(5fc2e42798131bd47a49c4d0121b205c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Shoes_Diffuse.png using Guid(5fc2e42798131bd47a49c4d0121b205c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66722085b3cdfb898574b956ea36d654') in 0.007098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Texturas/Remy_Hair_Gloss.png
+  artifactKey: Guid(0f793f61b0a97ba4698061cb247a2877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Hair_Gloss.png using Guid(0f793f61b0a97ba4698061cb247a2877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1232786775ad149e7cbd662b2aa75ba1') in 0.006468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Texturas/Remy_Bottom_Gloss.png
+  artifactKey: Guid(e8ad3522b06878e49acaa01e2e0912dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Bottom_Gloss.png using Guid(e8ad3522b06878e49acaa01e2e0912dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e235034d69b3c3d496898a043ceeaf') in 0.006364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Texturas/Remy_Hair_Normal.png
+  artifactKey: Guid(9509d7c2575f8f14e820fa24973d2516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Hair_Normal.png using Guid(9509d7c2575f8f14e820fa24973d2516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de14dfdc23a91df6f35e5b706cf1ec7') in 0.008900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Texturas/Remy_Hair_Specular.png
+  artifactKey: Guid(9f1298636d251aa42af129af798fd41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Hair_Specular.png using Guid(9f1298636d251aa42af129af798fd41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79e24eb5d6de5a8e697b78bd6ea28b9') in 0.006165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Texturas/Remy_Shoes_Specular.png
+  artifactKey: Guid(566e630e1d4abeb40851a26094d3a252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Shoes_Specular.png using Guid(566e630e1d4abeb40851a26094d3a252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590fc4be235963f932e196c9f7817d0e') in 0.006137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Texturas/Remy_Body_Specular.png
+  artifactKey: Guid(8f3f36c68411bbc47932de95b53d1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Body_Specular.png using Guid(8f3f36c68411bbc47932de95b53d1df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cb622da5a0721376775efb29cca427') in 0.008286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Texturas/Remy_Bottom_Specular.png
+  artifactKey: Guid(03590f5498ec5964db87d1eb05373b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Bottom_Specular.png using Guid(03590f5498ec5964db87d1eb05373b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '178996efb25e002ebab1e9efcb40a189') in 0.006491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Texturas/parasiteZombie_specular.png
+  artifactKey: Guid(0df392535a6a51e48b50ba1ea1293ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/parasiteZombie_specular.png using Guid(0df392535a6a51e48b50ba1ea1293ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfea9bbfc359af5e4b243ac279216efe') in 0.017572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Texturas/Remy_Body_Gloss.png
+  artifactKey: Guid(7d00c22e6f7183644aeee3fb81927762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Body_Gloss.png using Guid(7d00c22e6f7183644aeee3fb81927762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f300d94d2925b1eb76c5208d2b0292') in 0.008059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Texturas/Remy_Bottom_Diffuse.png
+  artifactKey: Guid(3593941ce22eae84da013dad427f5f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Bottom_Diffuse.png using Guid(3593941ce22eae84da013dad427f5f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f50f15e9b1596e0cbc7fca388db824') in 0.006843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Texturas/Remy_Top_Specular.png
+  artifactKey: Guid(93e07f67dc53d804ca9b47637a1d3bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/Remy_Top_Specular.png using Guid(93e07f67dc53d804ca9b47637a1d3bd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aba8e2a4cc880a5b6bbffd3a7ceb835') in 0.006052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Texturas/parasiteZombie_diffuse.png
+  artifactKey: Guid(8f3a4c731fc43664a9b6fe4f3f2e72c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/parasiteZombie_diffuse.png using Guid(8f3a4c731fc43664a9b6fe4f3f2e72c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5014abc2a8ae7045dc2e0340fea3e3') in 0.014163 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.140504 seconds.
+  path: Assets/Personajes/Parasite L Starkie.fbx
+  artifactKey: Guid(68038986318f6de4fb00f8c39ad5ad97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personajes/Parasite L Starkie.fbx using Guid(68038986318f6de4fb00f8c39ad5ad97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ff37cdb2296d33de14daecf4b1b663') in 0.057036 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.188335 seconds.
+  path: Assets/Materials/Green.mat
+  artifactKey: Guid(e631f5bcbf2f41a41954eaf831591284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Green.mat using Guid(e631f5bcbf2f41a41954eaf831591284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7cf87b808e818e6fc45bf76d93b6ebb') in 0.010670 seconds 
