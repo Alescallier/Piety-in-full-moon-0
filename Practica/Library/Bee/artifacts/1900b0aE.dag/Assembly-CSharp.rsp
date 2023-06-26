@@ -351,6 +351,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Grass And Flowers Pack 1/Example Scene/SimpleTextureDrawing.cs"
 "Assets/Scripts Parasite/EnemySkeletor.cs"
 "Assets/Scripts Remy/CamaraLook.cs"
 "Assets/Scripts Remy/LogicaPersonaje.cs"
